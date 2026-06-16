@@ -1,0 +1,13 @@
+{
+  "module_name": "C10QM",
+  "firmwares": [
+    {
+      "hardware_version": "2.1",
+      "linux_version": "L4",
+      "variant": "24",
+      "firmware_release": "2.2.8",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/2.1/24/C10QM_L4_2.1_24_2.2.8.zip",
+      "upload_date": "2026-06-16T05:15:24.405659"
+    }
+  ]
+}
