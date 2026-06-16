@@ -2,12 +2,51 @@
   "firmwares": [
     {
       "module_name": "C10QM",
+      "hardware_version": "1.2",
+      "linux_version": "L4",
+      "variant": "EA_24",
+      "firmware_release": "2.2.8",
+      "file_name": "C10QM_L4_1.2_EA_24_2.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/1.2/EA_24/C10QM_L4_1.2_EA_24_2.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-16T05:28:16.324558",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "1.2",
+      "linux_version": "L4",
+      "variant": "EA_22",
+      "firmware_release": "2.2.8",
+      "file_name": "C10QM_L4_1.2_EA_22_2.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/1.2/EA_22/C10QM_L4_1.2_EA_22_2.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-16T05:29:59.598458",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
       "hardware_version": "2.1",
       "linux_version": "L4",
       "variant": "EAJ_24",
-      "firmware_release": "2.2.6",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/2.1/EAJ_24/C10QM_L4_2.1_EAJ_24_2.2.6.zip",
-      "upload_date": "2026-06-16T01:29:59.733247"
+      "firmware_release": "2.2.8",
+      "file_name": "C10QM_L4_2.1_EAJ_24_2.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/2.1/EAJ_24/C10QM_L4_2.1_EAJ_24_2.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-16T05:31:00.539194",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "2.1",
+      "linux_version": "L4",
+      "variant": "EAJ_22",
+      "firmware_release": "2.2.8",
+      "file_name": "C10QM_L4_2.1_EAJ_22_2.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/2.1/EAJ_22/C10QM_L4_2.1_EAJ_22_2.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-16T05:43:07.611842",
+      "uploaded_by": "admin"
     }
   ]
 }
