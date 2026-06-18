@@ -38,6 +38,18 @@
     },
     {
       "module_name": "C10QM",
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.8",
+      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-18T09:13:08.961832",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
       "hardware_version": "2.1",
       "linux_version": "L4",
       "variant": "EAJ_22",
@@ -46,18 +58,6 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/2.1/EAJ_22/C10QM_L4_2.1_EAJ_22_2.2.8.zip",
       "release_notes": null,
       "upload_date": "2026-06-16T05:43:07.611842",
-      "uploaded_by": "admin"
-    },
-    {
-      "module_name": "C10QM",
-      "hardware_version": "3.3",
-      "linux_version": "L4",
-      "variant": "EAJ_24",
-      "firmware_release": "2.2.8",
-      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.8.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.8.zip",
-      "release_notes": null,
-      "upload_date": "2026-06-18T06:52:17.112185",
       "uploaded_by": "admin"
     }
   ]
