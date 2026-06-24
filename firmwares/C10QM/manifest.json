@@ -55,6 +55,17 @@
       "release_notes": null,
       "upload_date": "2026-06-16T05:43:07.611842",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "1.2",
+      "linux_version": "L4",
+      "variant": "EA_1.2",
+      "firmware_release": "2.2.8",
+      "file_name": "C10QM_L4_1.2_EA_1.2_2.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/1.2/EA_1.2/C10QM_L4_1.2_EA_1.2_2.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-24T06:05:24.075985",
+      "uploaded_by": "admin"
     }
   ]
 }
