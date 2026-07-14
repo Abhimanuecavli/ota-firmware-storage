@@ -251,6 +251,18 @@
       "release_notes": null,
       "upload_date": "2026-07-14T05:03:43.804336",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10",
+      "hardware_version": "3.2",
+      "linux_version": "L 4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.9",
+      "file_name": "C10_L 4_3.2_EAJ_24_2.2.9.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10/L 4/3.2/EAJ_24/C10_L 4_3.2_EAJ_24_2.2.9.zip",
+      "release_notes": null,
+      "upload_date": "2026-07-14T07:27:48.978832",
+      "uploaded_by": "admin"
     }
   ]
 }
