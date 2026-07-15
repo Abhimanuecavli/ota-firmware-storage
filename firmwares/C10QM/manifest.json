@@ -37,6 +37,17 @@
     {
       "hardware_version": "3.3",
       "linux_version": "L6",
+      "variant": "EAJ_24",
+      "firmware_release": "3.2.8",
+      "file_name": "C10QM_L6_3.3_EAJ_24_3.2.8.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3/EAJ_24/C10QM_L6_3.3_EAJ_24_3.2.8.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-24T09:14:18.774085",
+      "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L6",
       "variant": "EAJ_22",
       "firmware_release": "3.2.8",
       "file_name": "C10QM_L6_3.3_EAJ_22_3.2.8.zip",
@@ -103,6 +114,17 @@
     {
       "hardware_version": "1.2",
       "linux_version": "L4",
+      "variant": "EA_22",
+      "firmware_release": "2.2.2",
+      "file_name": "C10QM_L4_1.2_EA_22_2.2.2.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/1.2/EA_22/C10QM_L4_1.2_EA_22_2.2.2.zip",
+      "release_notes": null,
+      "upload_date": "2026-06-25T06:05:18.566638",
+      "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "1.2",
+      "linux_version": "L4",
       "variant": "EA_24",
       "firmware_release": "2.2.6",
       "file_name": "C10QM_L4_1.2_EA_24_2.2.6.zip",
@@ -156,28 +178,6 @@
       "uploaded_by": "admin"
     },
     {
-      "hardware_version": "1.2",
-      "linux_version": "L4",
-      "variant": "EA_22",
-      "firmware_release": "2.2.2",
-      "file_name": "C10QM_L4_1.2_EA_22_2.2.2.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/1.2/EA_22/C10QM_L4_1.2_EA_22_2.2.2.zip",
-      "release_notes": null,
-      "upload_date": "2026-07-06T05:14:50.094261",
-      "uploaded_by": "admin"
-    },
-    {
-      "hardware_version": "3.3",
-      "linux_version": "L6",
-      "variant": "EAJ_24",
-      "firmware_release": "3.2.8",
-      "file_name": "C10QM_L6_3.3_EAJ_24_3.2.8.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3/EAJ_24/C10QM_L6_3.3_EAJ_24_3.2.8.zip",
-      "release_notes": null,
-      "upload_date": "2026-07-06T05:23:14.761343",
-      "uploaded_by": "admin"
-    },
-    {
       "hardware_version": "2.1",
       "linux_version": "L4",
       "variant": "EAJ_24",
@@ -197,39 +197,6 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/2.1/EAJ_24/C10QM_L4_2.1_EAJ_24_2.2.8.zip",
       "release_notes": null,
       "upload_date": "2026-07-06T10:33:01.741273",
-      "uploaded_by": "admin"
-    },
-    {
-      "hardware_version": "3.3",
-      "linux_version": "L6",
-      "variant": "EAJ_24",
-      "firmware_release": "3.2.9",
-      "file_name": "C10QM_L6_3.3_EAJ_24_3.2.9.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3/EAJ_24/C10QM_L6_3.3_EAJ_24_3.2.9.zip",
-      "release_notes": null,
-      "upload_date": "2026-07-14T05:03:43.804336",
-      "uploaded_by": "admin"
-    },
-    {
-      "hardware_version": "3.3",
-      "linux_version": "L4",
-      "variant": "EAJ_24",
-      "firmware_release": "2.2.9",
-      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.9.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.9.zip",
-      "release_notes": null,
-      "upload_date": "2026-07-14T07:31:08.129129",
-      "uploaded_by": "admin"
-    },
-    {
-      "hardware_version": "3.3",
-      "linux_version": "L4",
-      "variant": "EAJ_24",
-      "firmware_release": "2.2.3",
-      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.3.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.3.zip",
-      "release_notes": null,
-      "upload_date": "2026-07-15T06:50:11.554963",
       "uploaded_by": "admin"
     }
   ]
