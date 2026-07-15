@@ -1,0 +1,16 @@
+{
+  "module_name": "AQ20",
+  "firmwares": [
+    {
+      "hardware_version": "v1",
+      "linux_version": "L3",
+      "variant": "WW_v1a2_512",
+      "firmware_release": "1.2.9",
+      "file_name": "AQ20_L3_v1_WW_v1a2_512_1.2.9.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/AQ20/L3/v1/WW_v1a2_512/AQ20_L3_v1_WW_v1a2_512_1.2.9.zip",
+      "release_notes": null,
+      "upload_date": "2026-07-15T08:34:37.068777",
+      "uploaded_by": "admin"
+    }
+  ]
+}
