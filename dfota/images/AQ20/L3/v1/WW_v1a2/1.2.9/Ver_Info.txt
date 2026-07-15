@@ -1,0 +1,19 @@
+{
+    "Image_Build_IDs": {
+        "apps": "LE.UM.2.3.6-55700-9x07-2", 
+        "boot": "BOOT.BF.3.1.2-00107-M9x07LAAAANAZB-2", 
+        "btfm": "BTFM.RM.2.4.1-00035-QCABTFMSWPZ-1", 
+        "cnss": "WLAN.RM.4.5.1-00277-QCARMSWRZ-2", 
+        "common": "MDM9607.LE.2.2-00231-STD.PROD-9", 
+        "glue": "MDM9607.LE.2.2-00231-STD.PROD-9", 
+        "modem": "MPSS.JO.2.0.4-00180-9607_GENNS_PACK-3", 
+        "rpm": "RPM.BF.2.1.1-00074-M9607AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.10-00272-M9607AAAAANAZT-2"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "MDM9607.LE.2.2-00231-STD.PROD-9", 
+        "Product_Flavor": "[None]", 
+        "Time_Stamp": "2026-07-13 05:19:09"
+    }, 
+    "Version": "1.0"
+}
