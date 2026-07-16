@@ -179,6 +179,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/C10QM/L6/3.3/EAJ_24/dfota_C10QM_L6_3.3_EAJ_24_from_3.2.7_to_3.2.9.tar.gz",
       "upload_date": "2026-07-16T07:51:46.725961",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "current_version": "2.2.7_Customer",
+      "target_version": "2.2.7",
+      "file_name": "dfota_C10QM_L4_3.3_EAJ_24_from_2.2.7_Customer_to_2.2.7.tar.gz",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/C10QM/L4/3.3/EAJ_24/dfota_C10QM_L4_3.3_EAJ_24_from_2.2.7_Customer_to_2.2.7.tar.gz",
+      "upload_date": "2026-07-16T09:54:50.039406",
+      "uploaded_by": "admin"
     }
   ]
 }
