@@ -1,0 +1,21 @@
+{
+    "Image_Build_IDs": {
+        "apps": "MDM9607.LE.2.1.7-00048-STD.PROD-1", 
+        "apps_kernel": "KERNEL.PLATFORM.3.2.r1-08400-kernel.0-1", 
+        "apps_le_framework": "LE.FRAMEWORK.2.0.r7-07000-9x07.0-1", 
+        "boot": "BOOT.BF.3.1.2-00107-M9x07LAAAANAZB-2", 
+        "btfm": "BTFM.TF.1.5-00081-QCATFSWPZ-2", 
+        "cnss": "WLAN.TFH.3.1-00182-QCATFSWPZ-2", 
+        "common": "MDM9607.LE.2.1.7-00048-STD.PROD-1", 
+        "glue": "GLUE.MDM9607_LE.2.1.2-00011-NOOP_TEST-1", 
+        "modem": "MPSS.JO.2.0.2.c1.7.1-00084-9607_GENNS_PACK-1", 
+        "rpm": "RPM.BF.2.1.1-00074-M9607AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.c6-00284-M9607LAAAAANAZT-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "MDM9607.LE.2.1.7-00048-STD.PROD-1", 
+        "Product_Flavor": "[None]", 
+        "Time_Stamp": "2026-07-14 14:25:52"
+    }, 
+    "Version": "1.0"
+}
