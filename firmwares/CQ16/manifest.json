@@ -11,6 +11,17 @@
       "release_notes": null,
       "upload_date": "2026-08-06T12:42:59.399471",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "CUST6-3",
+      "linux_version": "RTOS",
+      "variant": "CUST",
+      "firmware_release": "CUSTOM",
+      "file_name": "CQ16_RTOS_CUST6-3_CUST_CUSTOM.par",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQ16/RTOS/CUST6-3/CUST/CQ16_RTOS_CUST6-3_CUST_CUSTOM.par",
+      "release_notes": null,
+      "upload_date": "2026-08-06T12:46:18.706186",
+      "uploaded_by": "admin"
     }
   ]
 }
