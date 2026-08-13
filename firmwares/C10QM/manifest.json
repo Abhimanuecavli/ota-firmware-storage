@@ -253,6 +253,17 @@
       "release_notes": null,
       "upload_date": "2026-08-13T03:29:58.668159",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24_512_2K",
+      "firmware_release": "2.2.1-_cust",
+      "file_name": "C10QM_L4_3.3_EAJ_24_512_2K_2.2.1-_cust.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24_512_2K/C10QM_L4_3.3_EAJ_24_512_2K_2.2.1-_cust.zip",
+      "release_notes": null,
+      "upload_date": "2026-08-13T03:31:35.559419",
+      "uploaded_by": "admin"
     }
   ]
 }
