@@ -237,7 +237,7 @@
       "file_name": "C10QM_L6_3.3_EAJ_24_3.2.9.zip",
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3/EAJ_24/C10QM_L6_3.3_EAJ_24_3.2.9.zip",
       "release_notes": null,
-      "upload_date": "2026-07-15T12:43:33.348000",
+      "upload_date": "2026-07-14T05:03:43.804336",
       "uploaded_by": "admin"
     },
     {
@@ -442,6 +442,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3/EAJ24/C10QM_L6_3.3_EAJ24_3.2.10.zip",
       "release_notes": null,
       "upload_date": "2026-08-28T13:01:37.606907",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "CQM220",
+      "hardware_version": "WW",
+      "linux_version": "L5",
+      "variant": "v2a1",
+      "firmware_release": "1.2.0",
+      "file_name": "CQM220_L5_WW_v2a1_1.2.0.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQM220/L5/WW/v2a1/CQM220_L5_WW_v2a1_1.2.0.zip",
+      "release_notes": null,
+      "upload_date": "2026-08-31T01:37:44.030273",
       "uploaded_by": "admin"
     }
   ]

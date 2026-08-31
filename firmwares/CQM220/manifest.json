@@ -22,6 +22,17 @@
       "release_notes": null,
       "upload_date": "2026-06-24T09:31:23.006776",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "WW",
+      "linux_version": "L5",
+      "variant": "v2a1",
+      "firmware_release": "1.2.0",
+      "file_name": "CQM220_L5_WW_v2a1_1.2.0.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQM220/L5/WW/v2a1/CQM220_L5_WW_v2a1_1.2.0.zip",
+      "release_notes": null,
+      "upload_date": "2026-08-31T01:37:44.030273",
+      "uploaded_by": "admin"
     }
   ]
 }
