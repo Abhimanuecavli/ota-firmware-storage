@@ -352,6 +352,17 @@
       "release_notes": null,
       "upload_date": "2026-09-15T08:08:15.544938",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.10_itriangle_1app",
+      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.10_itriangle_1app.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.10_itriangle_1app.zip",
+      "release_notes": null,
+      "upload_date": "2026-09-15T08:10:09.860949",
+      "uploaded_by": "admin"
     }
   ]
 }
