@@ -237,7 +237,7 @@
       "file_name": "C10QM_L6_3.3_EAJ_24_3.2.9.zip",
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3/EAJ_24/C10QM_L6_3.3_EAJ_24_3.2.9.zip",
       "release_notes": null,
-      "upload_date": "2026-07-14T05:03:43.804336",
+      "upload_date": "2026-07-15T12:43:33.348000",
       "uploaded_by": "admin"
     },
     {
@@ -454,6 +454,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQM220/L5/WW/v2a1/CQM220_L5_WW_v2a1_1.2.0.zip",
       "release_notes": null,
       "upload_date": "2026-08-31T01:37:44.030273",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.10_itriangle_2app",
+      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.10_itriangle_2app.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.10_itriangle_2app.zip",
+      "release_notes": null,
+      "upload_date": "2026-09-15T08:08:15.544938",
       "uploaded_by": "admin"
     }
   ]
