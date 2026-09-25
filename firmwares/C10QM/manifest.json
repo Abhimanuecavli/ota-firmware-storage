@@ -396,6 +396,17 @@
       "release_notes": null,
       "upload_date": "2026-09-21T09:02:06.869834",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.10_legato_app",
+      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.10_legato_app.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.10_legato_app.zip",
+      "release_notes": null,
+      "upload_date": "2026-09-25T08:57:50.081713",
+      "uploaded_by": "admin"
     }
   ]
 }
