@@ -575,6 +575,18 @@
       "release_notes": null,
       "upload_date": "2026-09-25T05:12:25.508570",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.10_leagato_test3",
+      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.10_leagato_test3.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.10_leagato_test3.zip",
+      "release_notes": null,
+      "upload_date": "2026-09-25T05:32:06.651828",
+      "uploaded_by": "admin"
     }
   ]
 }
