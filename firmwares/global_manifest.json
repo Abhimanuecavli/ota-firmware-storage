@@ -611,6 +611,18 @@
       "release_notes": null,
       "upload_date": "2026-09-29T07:18:58.796579",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "3.3_4K",
+      "linux_version": "L6",
+      "variant": "EAJ24",
+      "firmware_release": "3.2.11",
+      "file_name": "C10QM_L6_3.3_4K_EAJ24_3.2.11.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3_4K/EAJ24/C10QM_L6_3.3_4K_EAJ24_3.2.11.zip",
+      "release_notes": null,
+      "upload_date": "2026-09-30T00:26:24.107974",
+      "uploaded_by": "admin"
     }
   ]
 }
