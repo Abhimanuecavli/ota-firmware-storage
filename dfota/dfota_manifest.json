@@ -263,6 +263,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/AQ20/L3/v1/WW_v1a2/dfota_AQ20_L3_v1_WW_v1a2_from_1.2.8_to_1.2.10.tar.gz",
       "upload_date": "2026-08-27T08:24:05.235772",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "AQ20",
+      "hardware_version": "1a2",
+      "linux_version": "L3",
+      "variant": "WW",
+      "current_version": "1.2.11",
+      "target_version": "1.2.10",
+      "file_name": "dfota_AQ20_L3_1a2_WW_from_1.2.11_to_1.2.10.tar.gz",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/AQ20/L3/1a2/WW/dfota_AQ20_L3_1a2_WW_from_1.2.11_to_1.2.10.tar.gz",
+      "upload_date": "2026-09-30T10:58:05.115395",
+      "uploaded_by": "admin"
     }
   ]
 }
