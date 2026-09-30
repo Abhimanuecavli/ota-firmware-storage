@@ -275,6 +275,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/AQ20/L3/1a2/WW/dfota_AQ20_L3_1a2_WW_from_1.2.11_to_1.2.10.tar.gz",
       "upload_date": "2026-09-30T10:58:05.115395",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "3.3",
+      "linux_version": "L6",
+      "variant": "EAJ_24",
+      "current_version": "3.2.11",
+      "target_version": "3.2.9",
+      "file_name": "dfota_C10QM_L6_3.3_EAJ_24_from_3.2.11_to_3.2.9.tar.gz",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/C10QM/L6/3.3/EAJ_24/dfota_C10QM_L6_3.3_EAJ_24_from_3.2.11_to_3.2.9.tar.gz",
+      "upload_date": "2026-09-30T12:47:49.924444",
+      "uploaded_by": "admin"
     }
   ]
 }
