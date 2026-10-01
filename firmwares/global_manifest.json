@@ -695,6 +695,18 @@
       "release_notes": null,
       "upload_date": "2026-10-01T08:43:54.609988",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "CQ20",
+      "hardware_version": "2.2.5",
+      "linux_version": "L4",
+      "variant": "WW-24",
+      "firmware_release": "2.2.11",
+      "file_name": "CQ20_L4_2.2.5_WW-24_2.2.11.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQ20/L4/2.2.5/WW-24/CQ20_L4_2.2.5_WW-24_2.2.11.zip",
+      "release_notes": null,
+      "upload_date": "2026-10-01T10:04:34.320010",
+      "uploaded_by": "admin"
     }
   ]
 }
