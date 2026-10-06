@@ -697,6 +697,7 @@
       "uploaded_by": "admin"
     },
     {
+      "module_name": "CQ20",
       "hardware_version": "2.2.5",
       "linux_version": "L4",
       "variant": "WW-24",
@@ -705,8 +706,7 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQ20/L4/2.2.5/WW-24/CQ20_L4_2.2.5_WW-24_2.2.11.zip",
       "release_notes": null,
       "upload_date": "2026-10-01T10:04:34.320010",
-      "uploaded_by": "admin",
-      "module_name": "CQ20"
+      "uploaded_by": "admin"
     },
     {
       "module_name": "C10QM",
@@ -718,6 +718,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.11_AB.zip",
       "release_notes": null,
       "upload_date": "2026-10-01T10:06:52.822348",
+      "uploaded_by": "admin"
+    },
+    {
+      "module_name": "aq20",
+      "hardware_version": "v1a2",
+      "linux_version": "L3",
+      "variant": "ww",
+      "firmware_release": "1.2.10",
+      "file_name": "aq20_L3_v1a2_ww_1.2.10.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/aq20/L3/v1a2/ww/aq20_L3_v1a2_ww_1.2.10.zip",
+      "release_notes": null,
+      "upload_date": "2026-10-06T10:08:19.216076",
       "uploaded_by": "admin"
     }
   ]
