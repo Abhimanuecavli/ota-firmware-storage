@@ -44,6 +44,17 @@
       "release_notes": null,
       "upload_date": "2026-09-23T08:58:54.844397",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "v2a1",
+      "linux_version": "L5",
+      "variant": "4K",
+      "firmware_release": "1.3.0",
+      "file_name": "CQM220_L5_v2a1_4K_1.3.0.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQM220/L5/v2a1/4K/CQM220_L5_v2a1_4K_1.3.0.zip",
+      "release_notes": null,
+      "upload_date": "2026-10-07T07:21:55.430774",
+      "uploaded_by": "admin"
     }
   ]
 }
