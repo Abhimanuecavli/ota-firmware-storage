@@ -301,23 +301,23 @@
     {
       "hardware_version": "3.3",
       "linux_version": "L4",
-      "variant": "EAJ_2K_AB",
-      "firmware_release": "2.2.10",
-      "file_name": "C10QM_L4_3.3_EAJ_2K_AB_2.2.10.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_2K_AB/C10QM_L4_3.3_EAJ_2K_AB_2.2.10.zip",
-      "release_notes": null,
-      "upload_date": "2026-08-27T05:19:12.374020",
-      "uploaded_by": "admin"
-    },
-    {
-      "hardware_version": "3.3",
-      "linux_version": "L4",
       "variant": "EAJ24",
       "firmware_release": "2.2.10",
       "file_name": "C10QM_L4_3.3_EAJ24_2.2.10.zip",
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ24/C10QM_L4_3.3_EAJ24_2.2.10.zip",
       "release_notes": null,
       "upload_date": "2026-08-28T05:31:18.347756",
+      "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_2K_AB",
+      "firmware_release": "2.2.10",
+      "file_name": "C10QM_L4_3.3_EAJ_2K_AB_2.2.10.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_2K_AB/C10QM_L4_3.3_EAJ_2K_AB_2.2.10.zip",
+      "release_notes": null,
+      "upload_date": "2026-08-27T05:19:12.374020",
       "uploaded_by": "admin"
     },
     {
@@ -475,17 +475,6 @@
       "uploaded_by": "admin"
     },
     {
-      "hardware_version": "3.3",
-      "linux_version": "L4",
-      "variant": "EAJ_24",
-      "firmware_release": "2.2.10_legato_ota_2",
-      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.10_legato_ota_2.zip",
-      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.10_legato_ota_2.zip",
-      "release_notes": null,
-      "upload_date": "2026-09-30T08:00:12.245641",
-      "uploaded_by": "admin"
-    },
-    {
       "hardware_version": "3.3_4K",
       "linux_version": "L6",
       "variant": "EAJ24",
@@ -494,6 +483,17 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L6/3.3_4K/EAJ24/C10QM_L6_3.3_4K_EAJ24_3.2.11.zip",
       "release_notes": null,
       "upload_date": "2026-09-30T00:26:24.107974",
+      "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "EAJ_24",
+      "firmware_release": "2.2.10_legato_ota_2",
+      "file_name": "C10QM_L4_3.3_EAJ_24_2.2.10_legato_ota_2.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.10_legato_ota_2.zip",
+      "release_notes": null,
+      "upload_date": "2026-09-30T08:00:12.245641",
       "uploaded_by": "admin"
     },
     {
@@ -549,6 +549,17 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/EAJ_24/C10QM_L4_3.3_EAJ_24_2.2.11_AB.zip",
       "release_notes": null,
       "upload_date": "2026-10-01T10:06:52.822348",
+      "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "LEGATO_512",
+      "firmware_release": "LEGATO",
+      "file_name": "C10QM_L4_3.3_LEGATO_512_LEGATO.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/LEGATO_512/C10QM_L4_3.3_LEGATO_512_LEGATO.zip",
+      "release_notes": null,
+      "upload_date": "2026-10-09T09:26:36.899457",
       "uploaded_by": "admin"
     }
   ]

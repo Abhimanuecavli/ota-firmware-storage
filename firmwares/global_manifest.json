@@ -755,6 +755,18 @@
       "release_notes": null,
       "upload_date": "2026-10-07T10:03:07.867267",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "C10QM",
+      "hardware_version": "3.3",
+      "linux_version": "L4",
+      "variant": "LEGATO_512",
+      "firmware_release": "LEGATO",
+      "file_name": "C10QM_L4_3.3_LEGATO_512_LEGATO.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/C10QM/L4/3.3/LEGATO_512/C10QM_L4_3.3_LEGATO_512_LEGATO.zip",
+      "release_notes": null,
+      "upload_date": "2026-10-09T09:26:36.899457",
+      "uploaded_by": "admin"
     }
   ]
 }
