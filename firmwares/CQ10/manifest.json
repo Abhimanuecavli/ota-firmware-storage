@@ -11,6 +11,17 @@
       "release_notes": null,
       "upload_date": "2026-10-28T05:12:43.175996",
       "uploaded_by": "admin"
+    },
+    {
+      "hardware_version": "1.2",
+      "linux_version": "L4",
+      "variant": "WW_24",
+      "firmware_release": "2.2.12_part",
+      "file_name": "CQ10_L4_1.2_WW_24_2.2.12_part.zip",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/firmwares/CQ10/L4/1.2/WW_24/CQ10_L4_1.2_WW_24_2.2.12_part.zip",
+      "release_notes": null,
+      "upload_date": "2026-11-09T09:49:09.029965",
+      "uploaded_by": "admin"
     }
   ]
 }
