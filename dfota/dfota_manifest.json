@@ -335,6 +335,18 @@
       "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/cq20/L4/e1/WW_11/dfota_cq20_L4_e1_WW_11_from_2.2.11_to_2.2.6.tar.gz",
       "upload_date": "2026-11-02T05:51:52.280855",
       "uploaded_by": "admin"
+    },
+    {
+      "module_name": "CQ10",
+      "hardware_version": "1.1",
+      "linux_version": "L4",
+      "variant": "WW_24",
+      "current_version": "2.2.12",
+      "target_version": "2.2.11",
+      "file_name": "dfota_CQ10_L4_1.1_WW_24_from_2.2.12_to_2.2.11.tar.gz",
+      "ota_url": "https://raw.githubusercontent.com/Abhimanuecavli/ota-firmware-storage/main/dfota/packages/CQ10/L4/1.1/WW_24/dfota_CQ10_L4_1.1_WW_24_from_2.2.12_to_2.2.11.tar.gz",
+      "upload_date": "2026-11-09T10:41:47.779996",
+      "uploaded_by": "admin"
     }
   ]
 }
